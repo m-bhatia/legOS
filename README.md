@@ -3,6 +3,10 @@ a simple file system, and drivers for keyboard input, text output and clock. I d
 
 The following text comes from the ECE391 course at UIUC:
 
+.
+.
+.
+
 ACADEMIC INTEGRITY
 -----
 Please review the University of Illinois Student Code before starting,
