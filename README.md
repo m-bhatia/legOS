@@ -1,9 +1,7 @@
 legOS is a simple operating system that includes support for non-preemptive context switching, segmented memory protection,
 a simple file system, and drivers for keyboard input, text output and clock. I developed this team project in ECE391 at UIUC.
 
-Disclaimer! Do not look at this code if you take ECE391 at UIUC.
-
-~~More Disclaimer Stuff~~
+The following text comes from the ECE391 course at UIUC:
 
 ACADEMIC INTEGRITY
 -----
